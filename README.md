@@ -15,20 +15,20 @@
 
 - FrontEnd : https://like-lion-12th-team-05-fe.vercel.app <br>
 - BackEnd : https://hayeongyou.shop
-
+<br>
 
 ## Repository 😀
 
 - FrontEnd : https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM05-FE <br>
 - BackEnd : https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM05-BE
-
+<br>
 
 ## 프로젝트 소개 🐾
 
 - 해커톤 주제인 “IT 기술을 활용하여 현대인의 건강 (wellness) 문제를 해결할 수 있는 서비스를 개발하시오."에 맞게 현대인의 건강 문제를 해결할 수 있는 운동 관련 서비스에 초점을 맞추어 프로젝트를 개발.<br>
 
 - Walk Mate는 다른 사람들에게 본인만의 숨은 산책로 혹은 다른 사용자들에게 추천하고 싶은 산책로 큐레이션을 사용자가 생성하여 모든 사용자가 해당 사이트를 통해 추천 산책로를 이용해볼 수 있다.
-
+<br>
 
 ## 주요 기능 🙌
 ### 1. 
@@ -44,7 +44,7 @@
 
 
 ### 5. 
-
+<br>
 
 ## 기술 스택 🌐
 ### Environment
